@@ -51,8 +51,8 @@ ${data.contributing}
 ${data.test}
 
 ## Questions
-${data.username}
-${data.email}`;
+Git username ${data.username}
+Email to contact ${data.email}`;
 }
 
 //module.exports = generateMarkdown;
