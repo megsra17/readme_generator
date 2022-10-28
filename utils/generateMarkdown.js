@@ -10,7 +10,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license != "unlicense") {
-    return `![license] (https://opensource.org/licenses/${license})`;
+    return `![license](https://opensource.org/licenses/${license})`;
   }
 }
 
@@ -47,7 +47,7 @@ This app cover this license: ${renderLicenseLink(data.license)}
 ## Contributing
 ${data.contributing}
 
-##Tests Instructions
+## Tests Instructions
 ${data.test}
 
 ## Questions
