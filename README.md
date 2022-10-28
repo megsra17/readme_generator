@@ -1,8 +1,8 @@
-# README Generator
+# test
   ![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 
 ## Description
-this project creates a readme project
+trs
 
 ## Table of Contest
 -[Project Description](#desc)
@@ -16,18 +16,18 @@ this project creates a readme project
 undefined
 
 ## Usage
-n/a
+
 
 ## License 
 This app cover this license: ![license](https://opensource.org/licenses/MIT)
 
 
 ## Contributing
-n/a
+
 
 ## Tests Instructions
-download node packages
+
 
 ## Questions
-Git username: https://github.com/megsra17
-Email to contact: megsra@wi.rr.com
+Git username: https://github.com/
+Email to contact: trs
