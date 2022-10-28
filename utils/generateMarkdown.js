@@ -51,8 +51,8 @@ ${data.contributing}
 ${data.test}
 
 ## Questions
-Git username ${data.username}
-Email to contact ${data.email}`;
+Git username: https://github.com/${data.username}
+Email to contact: ${data.email}`;
 }
 
 //module.exports = generateMarkdown;
