@@ -19,7 +19,7 @@ undefined
 
 
 ## License 
-This app cover this license: ![license](https://opensource.org/licenses/MIT)
+This app cover this license: (https://opensource.org/licenses/MIT)
 
 
 ## Contributing
