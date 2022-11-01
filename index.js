@@ -37,11 +37,7 @@ const questions = [
     name: "contributing",
     message: "Contributes information",
   },
-  {
-    type: "input",
-    name: "Test Link",
-    message: "Test",
-  },
+
   {
     type: "list",
     name: "license",
@@ -61,7 +57,7 @@ const questions = [
   {
     type: "input",
     name: "test",
-    message: "Instructions for app",
+    message: "Instructions Video For App",
   },
   {
     type: "input",

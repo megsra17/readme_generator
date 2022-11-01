@@ -48,9 +48,7 @@ This app cover this license: ${renderLicenseLink(data.license)}
 ${data.contributing}
 
 ## Tests Instructions Link
-<div style="position: relative; padding-bottom: 64.98194945848375%; height: 0;"><iframe src="${
-    data.test
-  }" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+${data.test}
 
 ## Questions
 Git username: https://github.com/${data.username}
