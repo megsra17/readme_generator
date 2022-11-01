@@ -1,8 +1,8 @@
-# Readme Generator
+# ReadMe Generator
   ![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 
 ## Description
-This code creates a readme.md file for you
+This program creates a readme file for the user
 
 ## Table of Contest
 -[Project Description](#desc)
@@ -16,7 +16,7 @@ This code creates a readme.md file for you
 n/a
 
 ## Usage
-n/a
+na/
 
 ## License 
 This app cover this license: (https://opensource.org/licenses/MIT)
@@ -26,7 +26,7 @@ This app cover this license: (https://opensource.org/licenses/MIT)
 n/a
 
 ## Tests Instructions Link
-<div style="position: relative; padding-bottom: 64.98194945848375%; height: 0;"><iframe src="download the node packages" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 64.98194945848375%; height: 0;"><iframe src="https://www.loom.com/embed/722134d289b345bbbf2c455f003fc66b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Questions
 Git username: https://github.com/megsra17
